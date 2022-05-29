@@ -44,3 +44,12 @@ Its important to note that the words that you want to print must be surrounded b
 The very last but super important thing to note is that after the parentheses there is a `;`. This is used to end the line of code and is very important. It is essentially the same as ending a sentence with punctuation. This semicolon tells the debugger that the code on this line is done and that it can move on to the next line.
 
 To see what our code does we can now run it in our terminal. You can copy and paste the code above into a .java file or run the code provided in the examples folder in Objective 1. Depending on what you set your workstation to do this may be different but if you are using VSCODE you can run your code by using the keyboard shortcut `ctrl + f5` on windows or by going to `run > run without debugging`.
+
+## Exercise
+
+For you first exercise we are going to replicate something similar to our example code. Follow these steps to complete objective one:
+1. Create a new file named `ObjectiveOne.java`
+2. Create the first 2 lines as seen in the example project to create your `class` and `main`.
+3. In your code print out `Hello World! My name is ` and print your name.
+
+Once you believe you have completed these steps check your work by running your code and by checking the solution. Don't check the solution if you are struggling, use the example provided and look for help online. Using Google to help understand anything confusing or why you may be getting errors is by no means cheating. You can also ask in the Discord provided in the main README.
